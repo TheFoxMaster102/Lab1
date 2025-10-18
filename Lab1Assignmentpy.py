@@ -1,4 +1,4 @@
-# Imports should always be at the top
+
 import os
 import sys
 from collections import Counter
